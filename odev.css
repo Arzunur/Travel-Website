@@ -1,0 +1,46 @@
+a:link{
+   text-decoration: none;
+       
+}
+
+
+
+.ankara {width: 400px;
+    padding-right:  30px;
+    padding: 15px;
+    border: 5px solid lightpink;
+    background-color: lightpink;
+    font-family: Lucida Console;
+    margin:  15px 50px;
+    border-radius:  10px;
+    font-size: medium;
+display: inline-block;
+   }
+   .istanbul{
+    width: 400px;
+    padding-right:  30px;
+    padding: 15px;
+    border: 5px solid paleturquoise;
+    background-color: paleturquoise;
+    font-family: Lucida Console;
+    margin:  15px 50px;
+    border-radius:  10px;
+    font-size: medium;
+   display: inline-block;
+   
+   }
+  
+   .izmir
+   {
+    width: 400px;
+    padding-right:  30px;
+    padding: 15px;
+    border: 5px solid lightgreen;
+    background-color: lightgreen;
+    font-family: Lucida Console;
+    margin:  15px 50px;
+    border-radius:  10px;
+    font-size: medium;
+display: inline-block;
+
+   }
